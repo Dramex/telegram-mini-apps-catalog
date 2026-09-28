@@ -276,6 +276,16 @@
       "status": "ok"
     },
     {
+      "name": "RelayShield IDCheck",
+      "url": "https://t.me/relayshield_bot/idcheck?startapp=tg-miniapp-dramex",
+      "description": "Checks a pasted link, TON address, or Telegram bot handle against a criminal indicator corpus, Google Safe Browsing, and domain age, for free with no signup.",
+      "category": "Products",
+      "contributedBy": "nzdsf2-gif",
+      "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#77",
+      "lastChecked": "2026-09-28",
+      "status": "ok"
+    },  
+    {
       "name": "SocialHub",
       "url": "https://t.me/SocialHubGlobal_bot/app",
       "description": "Web3 social media platform where every interaction earns real USDT directly to your wallet.",
