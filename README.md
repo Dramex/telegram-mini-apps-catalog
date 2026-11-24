@@ -8,7 +8,7 @@ has been untouched.
 
 **Submissions get a decision within 7 days.** See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- **29 apps**, last verified **2026-09-14**
+- **30 apps**, last verified **2026-09-14**
 - **3** flagged as inactive — listed, but marked, not quietly left to rot
 - Machine-readable copy: [`data/apps.json`](data/apps.json)
 - Every entry records who contributed it and when it was last checked
@@ -40,6 +40,7 @@ has been untouched.
 ## Games
 
 - [Arena Defense](https://t.me/arena_defense_bot/arena_defense) - Idle auto-battler defense: build a party of 10 heroes, unleash screen-clearing skills, and hold the line across 10 chapters. Playable in EN/KO/RU/ZH.
+- [BlinkBlocks](https://t.me/BlinkBlocksBot) - A fast-paced block and line-clear puzzle game with daily challenges, streak rewards, and a friend-challenge leaderboard.
 - [Catallaxy](https://t.me/catallaxy_bot) - Marketplace for digital goods paid in GRAM or USDT — gift cards, game top-ups, Telegram Stars and Premium, per-message AI, and TON utilities, with instant in-browser delivery. [Site](https://ctlx.cc) also available.
 - [CrazyWorld](https://t.me/CrazyWorld_GameBot) - Real-time strategy where clans fight over the real world map cell by cell, with paratroopers, drones, nukes, base-building and 2-week seasons.
 - [Feline Dynasty](https://t.me/FelineDynastyBot) - Idle cat-breeding game on TON: collect and breed NFT cats, grow your habitat and earn rewards, with a marketplace, guilds and DeFi.
