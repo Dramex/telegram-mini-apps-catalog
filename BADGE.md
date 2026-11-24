@@ -38,6 +38,12 @@ No obligation whatsoever — the listing stands either way.
 [![Listed in Telegram Mini Apps Catalog](https://raw.githubusercontent.com/coolpac/telegram-mini-apps-catalog/main/badge.svg)](https://coolpac.github.io/telegram-mini-apps-catalog/#authentication-using-tma-using-nestjs-and-nextjs)
 ```
 
+**BlinkBlocks**
+
+```markdown
+[![Listed in Telegram Mini Apps Catalog](https://raw.githubusercontent.com/coolpac/telegram-mini-apps-catalog/main/badge.svg)](https://coolpac.github.io/telegram-mini-apps-catalog/#blinkblocks)
+```
+
 **BookClass**
 
 ```markdown
